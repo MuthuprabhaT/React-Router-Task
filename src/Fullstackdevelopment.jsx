@@ -25,7 +25,7 @@ function Fullstackdevelopment() {
     },
     {
       id: 4,
-      image: "https://www.guvi.in/blog/wp-content/uploads/2023/08/The-Top-10-Tools-Every-Full-Stack-Developer-Should-Master-in-2023-2048x1072.png",
+      image: "https://www.guvi.in/blog/wp-content/uploads/2024/02/Best-Frontend-Developer-Interview-Questions-Answers.webp",
       title: "Top 10 Tools Every Full-Stack Developer Should Master in 2024",
       subtitle: "As a full-stack developer, having the right set of tools is crusial for your success.",
       date: "5 Augest 2023"

@@ -5,7 +5,7 @@ function Career() {
   let career = [
     {
       id: 1,
-      image: "https://www.guvi.in/blog/wp-content/uploads/2023/04/javascript-animated-image-768x432.jpg",
+      image: "https://www.guvi.in/blog/wp-content/uploads/2023/11/Featured-Image-2048x1072.webp",
       title: "Master Javascript Frontend Roadmap:From Novice to Expert[2024]",
       subtitle: "Are you eager to learn Javascript?Want to dive deep into the JavaScript frontend roadmap?",
       date: "2 January 2024"
@@ -26,7 +26,7 @@ function Career() {
     },
     {
       id: 4,
-      image: "https://www.guvi.in/blog/wp-content/uploads/2023/11/Top-Product-Based-Companies-for-AI-Engineers.png",
+      image: "https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-Product-Based-Companies-for-Product-Managers-in-India.webp",
       title: "Best Product-Based Companies for AI Engineers in 2024",
       subtitle: "There was a time when AI was the future. Well, it has now become our present, a wonderful reality of the 21 st century.",
       date: "10 November 2023"

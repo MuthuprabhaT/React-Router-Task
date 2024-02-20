@@ -40,7 +40,7 @@ function Datascience() {
     },
     {
       id: 6,
-      image: "https://www.guvi.in/blog/wp-content/uploads/2023/07/conceptual-data-analysis-with-wooden-blocks-magnifying-glass-side-view-1.jpg",
+      image: "https://www.guvi.in/blog/wp-content/uploads/2023/10/Feature-image-Best-books-to-learn-data-science.webp",
       title: "Best Way to Learn Data Science in 2024",
       subtitle: "The world of data science is vast and captivating, but with so much information available, finding the best way to learn and master this field can be overwhelming.",
       date: "28 July 2023"
