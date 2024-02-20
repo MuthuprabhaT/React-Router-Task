@@ -1,13 +1,13 @@
 # React Router
 
- Replicating the [Guvi blog] (https://www.guvi.in/blog/) website.
+ Replicating the [Guvi blog](https://www.guvi.in/blog/) website.
 
 ## Features:
- -**All**: All the blogs will be displayed.
- -**Full Stack Development**: Only blogs about full stack development will be displayed.
- -**Data Science**: Only blogs about data science will be displayed.
- -**Cyber Security**: Only blogs about cyber security will be displayed.
- -**Career**: Only blogs about career will be displayed.
+ - **All**: All the blogs will be displayed.
+ - **Full Stack Development**: Only blogs about full stack development will be displayed.
+ - **Data Science**: Only blogs about data science will be displayed.
+ - **Cyber Security**: Only blogs about cyber security will be displayed.
+ - **Career**: Only blogs about career will be displayed.
 
 ## Technologies Used 
 - React
