@@ -1,8 +1,20 @@
-# React + Vite
+# React Router
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ Replicating the [Guvi blog] (https://www.guvi.in/blog/) website.
 
-Currently, two official plugins are available:
+## Features:
+ -**All**: All the blogs will be displayed.
+ -**Full Stack Development**: Only blogs about full stack development will be displayed.
+ -**Data Science**: Only blogs about data science will be displayed.
+ -**Cyber Security**: Only blogs about cyber security will be displayed.
+ -**Career**: Only blogs about career will be displayed.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used 
+- React
+- React Router Dom
+- Bootstrap
+
+## Getting Started
+1. Create a react project by using **Vite**
+2. Run `npm install` to install the required dependencies.
+3. Run `npm run dev` to start the development server and open the app in your browser.
